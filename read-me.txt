@@ -1,0 +1,45 @@
+Login page
+-> Remember Me : Cookies Unset (Butuh Ga????)
+-> Forgot Password : Page Unset
+-> Background Color : transition Unset
+
+Index Guru
+-> All Unset
+-> butuh tabel guru dengan mata pelajarannya, jadi tidak semua guuru bisa mengubah nilai mata pelajaran dari semua siswa.
+    hanya beberapa saja yang bisa dirubah sesuai dengan mata pelajaran yang diampu
+
+Index Siswa
+-> perbaiki div saat kembali ke dashboard
+-> Making Parent Then Include All The Page
+-> Giving Class To img on div Class logo
+-> Give Source on div account2 (Real Photo From Siswa)
+-> Data Kelas Belum Ada
+-> Grafik perkembangan studi belum selesai!!
+
+Siswa Profil
+-> Button Atas Dipindah
+-> Ubah Kata Sandi Form Validation
+-> Ubah Password No Action (--)
+
+Administrator
+-> Header :
+    -- Dashboard
+    -- Data Master
+        - Data Guru
+            -> Pagination (bootstrap) => maybe needed
+        - Data Siswa
+        - Data Kelas :
+            -> Data belum terinput
+    -- Akademik
+        - Mata Pelajaran
+        - Jadwal Pelajaran
+        - Nilai Siswa
+            -> Active State Unset
+            -> Showup Data Belum selesai
+    -- Buat Akun
+        - Akun Guru
+            -> lokasi upload foto
+        - Akun Siswa
+            -> lokasi upload foto
+    -- Upload Dokumen
+        -> All Unset
